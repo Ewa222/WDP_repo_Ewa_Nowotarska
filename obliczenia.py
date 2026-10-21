@@ -1,5 +1,5 @@
 x = 3 
 y = 5
-z = x + y 
-print(z)
+z = x * y 
+print("wynik mnozemia:", z)
 
